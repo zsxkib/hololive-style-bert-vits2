@@ -1,0 +1,51 @@
+bert_gen:
+  config_path: config.json
+  device: cpu
+  num_processes: 2
+  use_multi_device: false
+dataset_path: Data\model_name
+model_name: model_name
+preprocess_text:
+  clean: true
+  cleaned_path: ''
+  config_path: config.json
+  max_val_total: 12
+  train_path: train.list
+  transcription_path: esd.list
+  val_path: val.list
+  val_per_lang: 4
+resample:
+  in_dir: raw
+  out_dir: wavs
+  sampling_rate: 44100
+server:
+  device: cuda
+  language: JP
+  limit: 100
+  origins:
+  - '*'
+  port: 5000
+style_gen:
+  config_path: config.json
+  device: cpu
+  num_processes: 4
+train_ms:
+  config_path: config.json
+  env:
+    LOCAL_RANK: 0
+    MASTER_ADDR: localhost
+    MASTER_PORT: 10086
+    RANK: 0
+    WORLD_SIZE: 1
+  keep_ckpts: 1
+  model_dir: models
+  num_workers: 16
+  spec_cache: true
+webui:
+  config_path: config.json
+  debug: false
+  device: cuda
+  language_identification_library: langid
+  model: models/G_8000.pth
+  port: 7860
+  share: false

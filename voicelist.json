@@ -1,0 +1,344 @@
+{
+  "Calli": {
+    "enable": true,
+    "model_path": "SBV2_HoloLow",
+    "title": "Mori Calliope",
+	"speakerid": "MoriCalliope",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "calli.png"
+  },
+  "Kiara": {
+    "enable": true,
+    "model_path": "SBV2_TakanashiKiara",
+    "title": "Takanashi Kiara",
+	"speakerid": "TakanashiKiara",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "kiara.png"
+  },
+  "Ina": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Ninomae Ina'nis",
+	"speakerid": "NinomaeInanis",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "ina.png"
+  },
+  "Gura": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Gawr Gura",
+	"speakerid": "GawrGura",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "gura.png"
+  },
+  "Amelia": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Amelia Watson",
+	"speakerid": "AmeliaWatson",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "ame.png"
+  },
+  "IRyS": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "IRyS",
+	"speakerid": "IRyS",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "irys.png"
+  },
+  "Sana": {
+    "enable": true,
+    "model_path": "SBV2_HoloAus",
+    "title": "Tsukumo Sana",
+	"speakerid": "TsukumoSana",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "sana.png"
+  },
+  "Fauna": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Ceres Fauna",
+	"speakerid": "CeresFauna",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "fauna.png"
+  },
+  "Kronii": {
+    "enable": true,
+    "model_path": "SBV2_HoloLow",
+    "title": "Ouro Kronii",
+	"speakerid": "OuroKronii",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "kronii.png"
+  },
+  "Mumei": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Nanashi Mumei",
+	"speakerid": "NanashiMumei",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "mumei.png"
+  },
+  "Baelz": {
+    "enable": true,
+    "model_path": "SBV2_HoloAus",
+    "title": "Hakos Baelz",
+	"speakerid": "HakosBaelz",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "bae.png"
+  },
+  "Shiori": {
+    "enable": true,
+    "model_path": "SBV2_HoloHi",
+    "title": "Shiori Novella",
+	"speakerid": "ShioriNovella",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "shiori.png"
+  },
+  "Bijou": {
+    "enable": true,
+    "model_path": "SBV2_KosekiBijou",
+    "title": "Koseki Bijou",
+	"speakerid": "KosekiBijou",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "bijou.png"
+  },
+  "Nerissa": {
+    "enable": true,
+    "model_path": "SBV2_HoloLow",
+    "title": "Nerissa Ravencroft",
+	"speakerid": "NerissaRavencroft",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "nerissa.png"
+  },
+  "Iofi": {
+    "enable": true,
+    "model_path": "SBV2_HoloESL",
+    "title": "Airani Iofifteen",
+	"speakerid": "AiraniIofifteen",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "iofi.png"
+  },
+  "Ollie": {
+    "enable": true,
+    "model_path": "SBV2_HoloIDFlu",
+    "title": "Kureiji Ollie",
+	"speakerid": "KureijiOllie",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "ollie.png"
+  },
+  "Anya": {
+    "enable": true,
+    "model_path": "SBV2_HoloESL",
+    "title": "Anya Melfissa",
+	"speakerid": "AnyaMelfissa",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "anya.png"
+  },
+  "Zeta": {
+    "enable": true,
+    "model_path": "SBV2_HoloIDFlu",
+    "title": "Vestia Zeta",
+	"speakerid": "VestiaZeta",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "EN",
+    "cover": "zeta.png"
+  },
+  "Sora": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Tokino Sora",
+	"speakerid": "TokinoSora",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "sora.png"
+  },
+  "Suisei": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Hoshimachi Suisei",
+	"speakerid": "HoshimachiSuisei",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "suisei.png"
+  },
+  "AZKi": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "AZKi",
+	"speakerid": "AZKi",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "azki.png"
+  },
+  "Mel": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "Yozora Mel",
+	"speakerid": "YozoraMel",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "mel.png"
+  },
+  "Matsuri": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "Natsuiro Matsuri",
+	"speakerid": "NatsuiroMatsuri",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "matsuri.png"
+  },
+  "Aki": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "Aki Rosenthal",
+	"speakerid": "AkiRosenthal",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "aki.png"
+  },
+  "Haato": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "Akai Haato",
+	"speakerid": "AkaiHaato",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "haato.png"
+  },
+  "Aqua": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Minato Aqua",
+	"speakerid": "MinatoAqua",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "aqua.png"
+  },
+  "Ayame": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Nakiri Ayame",
+	"speakerid": "NakiriAyame",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "ayame.png"
+  },
+  "Okayu": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "Nekomata Okayu",
+	"speakerid": "NekomataOkayu",
+	"datasetauthor": "dacoolkid44",
+	"primarylang": "JP",
+    "cover": "okayu.png"
+  },
+  "Flare": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "Shiranui Flare",
+	"speakerid": "ShiranuiFlare",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "flare.png"
+  },
+  "Noel": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "Shirogane Noel",
+	"speakerid": "ShiroganeNoel",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "noel.png"
+  },
+  "Marine": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "Houshou Marine",
+	"speakerid": "HoushouMarine",
+	"datasetauthor": "dacoolkid44",
+	"primarylang": "JP",
+    "cover": "marine.png"
+  },
+  "Towa": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Tokoyami Towa",
+	"speakerid": "TokoyamiTowa",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "towa.png"
+  },
+  "Lamy": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Yukihana Lamy",
+	"speakerid": "YukihanaLamy",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "lamy.png"
+  },
+  "Laplus": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "La+ Darknesss",
+	"speakerid": "LaplusDarknesss",
+	"datasetauthor": "dacoolkid44",
+	"primarylang": "JP",
+    "cover": "laplus.png"
+  },
+  "Lui": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2.5",
+    "title": "Takane Lui",
+	"speakerid": "TakaneLui",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "lui.png"
+  },
+  "Koyori": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Hakui Koyori",
+	"speakerid": "HakuiKoyori",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "koyori.png"
+  },
+  "Chloe": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest2",
+    "title": "Sakamata Chloe",
+	"speakerid": "SakamataChloe",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "chloe.png"
+  },
+  "Ririka": {
+    "enable": true,
+    "model_path": "SBV2_HoloJPTest",
+    "title": "Ichijou Ririka",
+	"speakerid": "IchijouRirika",
+	"datasetauthor": "Kit Lemonfoot",
+	"primarylang": "JP",
+    "cover": "ririka.png"
+  }
+}
